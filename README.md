@@ -1,3 +1,3 @@
-# hello-megaptera
+# hello, megaptera
 
-처음 만든 저장소
+처음 만든 Git 저장소
